@@ -1,0 +1,16 @@
+timestamp|grantor|user|role changed to
+12/27/2020 9:30:00|system|barry|unassigned
+12/27/2020 9:31:00|system|barry|admin
+12/29/2020 12:22:00|system|shahar|unassigned
+12/29/2020 12:23:00|barry|shahar|developer
+12/31/2020 5:42:00|system|ziv|unassigned
+12/31/2020 5:43:00|barry|ziv|developer
+12/31/2020 5:43:30|barry|ziv|admin
+1/13/2021 15:27:00|system|eilam|unassigned
+1/13/2021 15:28:00|ziv|eilam|developer
+2/2/2021 11:54:00|system|katie|unassigned
+2/2/2021 11:55:00|ziv|katie|developer
+3/10/2021 1:20:00|ziv|barry|developer
+3/10/2021 1:21:00|ziv|eilam|admin
+3/10/2021 1:55:00|ziv|eilam|developer
+3/10/2021 1:56:00|ziv|barry|admin
